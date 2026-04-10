@@ -94,4 +94,5 @@ Customers are scored on a scale of 1–5 and segmented accordingly.
 RFM analysis provides a powerful approach to understand customer behavior and segment customers effectively. By focusing on high-value customers and re-engaging at-risk segments, businesses can significantly improve revenue and customer retention.
 
 ---
-
+## github link:
+(https://github.com/gpriyalba-hub/customer-rfm-analysis/blob/main/DATA_ANALYST_MINI_.ipynb)
